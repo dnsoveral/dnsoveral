@@ -3,7 +3,7 @@
 I'm an ex Retail Manager with 13 years of experience in Food Production, Retail Management as well as Team Leading and Management, with a particular passion for Coaching People and Data Science, the Analytics part of the Management and the Science part of the Data, with predicting Patterns in and out of the usual and looking for Outliers in Data. 
 As for a particular and personal interest and passion, I'm trying to work and learn more about Mental Health and Neurodivergencies. 
 I'm constantly learning and looking to learn more and explore more about Data Science and Mental Health in particular right now, and Coaching and Retail Management as "business as usual". 
-Although, there are particular areas of Data Science I'd like to learn and work more specifically as I said before, for me learning it as whole it's the best way to understand it. 
+Although, there are particular areas of Data Science I'd like to learn and work more specifically as I said before, for me learning it as a whole it's the best way to understand it. 
 
 - 🔭 I’m currently working on projects about Mental Health and and Neurodivergencies, like ADHD and Autism, or projects about Retail and Food Industry, in a way to learn more about Data Science, Programming and Neurodivergencies and Mental Health themselves.
 - 👯 I'm looking to work in Retail in General, with the Food Industry and Retail, or learning something new. 
